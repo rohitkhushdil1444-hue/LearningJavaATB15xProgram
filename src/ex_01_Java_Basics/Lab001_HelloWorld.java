@@ -16,6 +16,11 @@ public class Lab001_HelloWorld {
 
         public static void result(){
         System.out.println("ABC");
+
+
+            for( int i=10; i>=0; i--){
+                System.out.println("Print the value of " +  i  );
+            }
         }
 
 
